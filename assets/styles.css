@@ -1,0 +1,23 @@
+/* FinSight AI - Professional Dark Navy Theme */
+body {
+    background-color: #0a192f; /* Dark Navy */
+    color: #ccd6f6; /* Light text for contrast */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Dashboard elements */
+.container {
+    padding: 20px;
+}
+
+h1, h2 {
+    color: #64ffda; /* Teal accent for headings */
+}
+
+/* Cards/KPIs */
+.kpi-card {
+    background-color: #112240; /* Slightly lighter dark blue */
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
